@@ -26,6 +26,7 @@ Run the application on a different terminal session,
 
 ```sh
 $ python manage.py runserver
+
 ```
 
 The application should be up and running at [http://localhost:8000](http://localhost:5000).
