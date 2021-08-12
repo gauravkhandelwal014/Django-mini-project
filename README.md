@@ -5,7 +5,7 @@
 Clone the project,
 
 ```sh
-$ git clone  
+$ git clone  https://github.com/gauravkhandelwal014/Django-mini-project.git
 ```
 
 Install the dependencies,
