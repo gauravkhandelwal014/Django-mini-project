@@ -34,22 +34,18 @@ The application should be up and running at [http://localhost:8000](http://local
 Here are a few screenshots
 1.Landing Page
 
-![image.png](https://github.com/BLOCKaro/BLOCKaro/blob/main/Screenshots/screen1.png)
+![image.png](https://github.com/gauravkhandelwal014/Django-mini-project/blob/b70fd7ffaef00e317e10351d5c52f5fe16d665f7/Screenshots/Home%20gaurav%20icecreams%20-%20.png)
 
-2. Posting some content
+2. About Page
 
-![image.png](https://github.com/BLOCKaro/BLOCKaro/blob/main/Screenshots/screen2.png)
+![image.png](https://github.com/gauravkhandelwal014/Django-mini-project/blob/b70fd7ffaef00e317e10351d5c52f5fe16d665f7/Screenshots/About%20gaurav%20icecreams%20-%20.png)
 
-3. Requesting the node to mine
+3. Contact us page 
 
-![image.png](https://github.com/BLOCKaro/BLOCKaro/blob/main/Screenshots/screen3.png)
+![image.png](https://github.com/gauravkhandelwal014/Django-mini-project/blob/b70fd7ffaef00e317e10351d5c52f5fe16d665f7/Screenshots/Contact-us%20gaurav%20icecreams%20-%20.png)
 
-4. Resyncing with the chain for updated chat
+4. Displaying chain using Postman
 
-![image.png](https://github.com/BLOCKaro/BLOCKaro/blob/main/Screenshots/screen4.png)
-
-5. Displaying chain using Postman
-
-![image.png](https://github.com/BLOCKaro/BLOCKaro/blob/main/Screenshots/screen5.png)
+![image.png](https://github.com/gauravkhandelwal014/Django-mini-project/blob/b70fd7ffaef00e317e10351d5c52f5fe16d665f7/Screenshots/Admin%20gaurav%20icecreams%20-%20.png)
 
 To play around by spinning off multiple custom nodes, use the `/admin` endpoint to see all the contact saved with your username and password
