@@ -42,7 +42,7 @@ Here are a few screenshots
 
 3. Contact us page 
 
-![image.png](https://github.com/gauravkhandelwal014/Django-mini-project/blob/b70fd7ffaef00e317e10351d5c52f5fe16d665f7/Screenshots/Contact-us%20gaurav%20icecreams%20-%20.png)
+![image.png](https://github.com/gauravkhandelwal014/Django-mini-project/blob/03ac7f128866a05aa6dda63c0082f83a6bbea2a3/Screenshots/Contact-us%20gaurav%20icecreams%20%20.png)
 
 4. Displaying chain using Postman
 
