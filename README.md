@@ -46,6 +46,6 @@ Here are a few screenshots
 
 4. Displaying chain using Postman
 
-![image.png](https://github.com/gauravkhandelwal014/Django-mini-project/blob/b70fd7ffaef00e317e10351d5c52f5fe16d665f7/Screenshots/Admin%20gaurav%20icecreams%20-%20.png)
+![image.png](https://github.com/gauravkhandelwal014/Django-mini-project/blob/21454c2dd86039fb12e57749d56e97e03d47ff8a/Screenshots/Home%20gaurav%20icecreams%20-%20.png)
 
 To play around by spinning off multiple custom nodes, use the `/admin` endpoint to see all the contact saved with your username and password
