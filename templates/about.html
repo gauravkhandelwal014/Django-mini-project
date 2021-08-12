@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+
+
+{% block title %}About
+{% endblock title %}
+
+
+{% block body %}
+<style>
+
+.div2{
+  height: 600px;
+  width: 400;
+  margin-right: 60px;
+  
+  float: right;
+}
+.div3 {
+  height: 200px;
+  width: 50%;
+   margin-left: 20px;
+   margin-top: 60px;
+  
+}
+</style>
+</head>
+<body>
+
+
+<div class="div1">
+   <div class="div2">
+<div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="100000000000000000000">
+      <img src="/static/21.jfif" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item" data-bs-interval="200000000000000000000">
+      <img src="/static/23.jfif" class="d-block w-100" alt="...">
+    </div>
+    
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+   </div>
+   <div class="div3"><h4> <u>  Overview      </u></h4>
+   <p>Gaurav Ice Cream was won by taste, innovation and quality. It’s a difference you can taste. Which is why we are so loved by our fans and continue to make new ones? Keeping with the times and changing tastes of customers, Treat Ice Cream, as an ice cream brand has come a long way. Fast moving ahead with its path-breaking innovations, strategic roadmap and fruitful partnerships, Treat is all set to become Central India's most loved ice cream brand.
+   </p>
+   <p>All the standards of hygiene and quality control are observed at these plants. Treat has always adopted the latest and the most suitable technique for preparing its ice creams. The motto behind this is to give its customers the best products and retain a satisfactory smile on their faces. Treat scoops out lip-smacking variety of 100% vegetarian ice creams, sundaes, candy bars and novelties.</p>
+    <p>The consumption pattern of people with regard to ice creams has changed over time. The worldwide consumption pattern of ice creams has phenomenally changed over the years with a growing preference for more exotic and unique flavors. India too has witnessed this change. The country has experienced a steady increase in the volume and the manner in which ice creams have been consumed. Hectic lifestyles, changing eating habits and tastes, the demand for reasonably priced high quality and delicious desserts has grown. With the average income on the rise and greater number of people visiting foreign countries, people today are more open to traveling and enjoying exotic desserts.
+    </p>
+   </div>
+</div>
+</div>
+{% endblock body %}
